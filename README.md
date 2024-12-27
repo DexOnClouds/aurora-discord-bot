@@ -1,7 +1,3 @@
-# aurora-discord-botHere’s the updated `README.md` file with the requested changes, including the `config.js` reference and added emojis for a more engaging appearance:
-
----
-
 # 🌌 **Aurora Discord Bot**
 
 Aurora is a versatile Discord bot designed to enhance your server experience with a variety of features. It includes commands for moderation, fun interactions, and utility functions. The bot is built using **Discord.js** and integrates with **MongoDB** for data storage. 
